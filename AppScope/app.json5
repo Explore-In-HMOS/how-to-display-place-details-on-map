@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.placedetailsonmap",
+    "bundleName": "com.hmosdemos.wearable.how_to_display_place_details_on_map",
     "vendor": "hmosdemos",
     "versionCode": 1000000,
     "versionName": "1.0.0",

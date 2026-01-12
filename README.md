@@ -10,7 +10,7 @@ It focuses solely on a basic use case without any search, navigation, or dynamic
 
 # Preview
 <div>
-  <img src="screenshots/output.gif" width="25%">
+  <img src="screenshots/output.gif" width="24%">
 </div>
 
 # Technology

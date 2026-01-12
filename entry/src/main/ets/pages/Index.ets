@@ -8,20 +8,20 @@ struct Index {
 
   aboutToAppear() {
     const defaultLocation: mapCommon.LatLng = {
-      latitude: 38.447967,
-      longitude: 27.179380
+      latitude: 45.4046653,
+      longitude: 12.2221828
     };
     this.mapOptions = {
       position: {
         target: defaultLocation,
         zoom: 17
-      },
+      }
     };
 
     this.markerOptions = {
       position: defaultLocation,
       icon: $r('app.media.vector'),
-      title: this.getUIContext().getHostContext()?.resourceManager.getStringByNameSync('marker_title_huawei_izmir'),
+      title: this.getUIContext().getHostContext()?.resourceManager.getStringByNameSync('marker_title_venice'),
       clickable: true,
       alpha: 1,
       anchorU: 0.5,
